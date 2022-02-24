@@ -109,10 +109,10 @@ const Navbar = props => {
                     aria-label="Options"
                 />
                 <MenuList>
-                    <NextLink href="/" passHref>
+                    {/* <NextLink href="/" passHref>
                     <MenuItem as={Link}>About</MenuItem>
-                    </NextLink>
-                    <NextLink href="/works" passHref>
+                    </NextLink> */}
+                    <NextLink href="https://www.linkedin.com/in/stevenborik/" passHref>
                     <MenuItem as={Link}>Works</MenuItem>
                     </NextLink>
                     <MenuItem
