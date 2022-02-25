@@ -80,7 +80,7 @@ const Page = () => {
                         Free Time Fun
                     </Heading>
                     <Paragraph>
-                        Music, Ultimate Frisbee, Reading, German Sheperd, Fighting Games
+                        Music, Ultimate Frisbee, Reading, German Shepherd, Fighting Games
                     </Paragraph>
                 </Section>
             </Container>
