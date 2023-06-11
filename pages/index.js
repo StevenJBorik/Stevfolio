@@ -38,11 +38,12 @@ const Page = () => {
                         Me
                     </Heading>
                     <Paragraph>
-                        I'm a full stack software developer with 5 years of industry experience. I started my IT 
-                        career 7 years ago with Linux System Administration, and entered the dev world at JCPenney.
+                        I'm a full stack software developer with 8 years of industry experience. I started my IT 
+                        career doing L1 Linux System Administration and Network Monitoring at GoldenFrog, and transitioned to the dev world at JCPenney.
                         I gained full stack experience through designing MVC and React Progressive Web Applications, and
-                        DevOps and CI/CD experience in monthly deployments of the JCPenney's Point of Sale Application. 
-                        
+                        DevOps and CI/CD experience in monthly deployments of the JCPenney's Point of Sale Application.
+                        Currently I work primarily with .NET applications for Miller Knoll, 
+                        handling critical interactions on POS, WMS, ERP, and Marketing systems. 
                     </Paragraph>
                     <Box align="center" my="4">
                         {/* <NextLink href="works">
@@ -67,11 +68,15 @@ const Page = () => {
                     </BioSection>
                     <BioSection>
                         <BioYear>2006</BioYear>  
-                        Settled in Dallas, Texas  
+                        Moved to Dallas, Texas  
                     </BioSection>
                     <BioSection>
                         <BioYear>2017</BioYear>  
                         Graduated from the University of Texas at Dallas - B.S. Management Information Systems    
+                    </BioSection>
+                     <BioSection>
+                        <BioYear>2022</BioYear>  
+                        Settled in Austin, Texas  
                     </BioSection>
                 </Section>
 
@@ -80,7 +85,7 @@ const Page = () => {
                         Free Time Fun
                     </Heading>
                     <Paragraph>
-                        Music, Ultimate Frisbee, Reading, German Shepherd, Fighting Games
+                        Musicianing, Coding, German Shepherd, Ultimate Frisbee, Boxing, Video Games  
                     </Paragraph>
                 </Section>
             </Container>
