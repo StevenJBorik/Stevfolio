@@ -42,7 +42,7 @@ const Page = () => {
                         career doing L1 Linux System Administration and Network Monitoring at GoldenFrog, and transitioned to the dev world at JCPenney.
                         I gained full stack experience through designing MVC and React Progressive Web Applications, and
                         DevOps and CI/CD experience in monthly deployments of the JCPenney's Point of Sale Application.
-                        Currently I work primarily with .NET applications for Miller Knoll, 
+                        Currently I work primarily with .NET applications for MillerKnoll, 
                         handling critical interactions on POS, WMS, ERP, and Marketing systems. 
                     </Paragraph>
                     <Box align="center" my="4">
