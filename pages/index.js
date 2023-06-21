@@ -38,7 +38,7 @@ const Page = () => {
                         Me
                     </Heading>
                     <Paragraph>
-                        I'm a full stack software developer with 8 years of industry experience. I started my IT 
+                        I'm a full stack software developer with 7 years of industry experience. I started my IT 
                         career doing L1 Linux System Administration and Network Monitoring at GoldenFrog, and transitioned to the dev world at JCPenney.
                         I gained full stack experience through designing MVC and React Progressive Web Applications, and
                         DevOps and CI/CD experience in monthly deployments of the JCPenney's Point of Sale Application.
