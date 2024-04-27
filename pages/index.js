@@ -17,7 +17,7 @@ const Page = () => {
                             <Heading as="h2" variant="page-title">
                                 Steven Borik
                             </Heading>
-                            <p>Developer | Multi-Instrumentalist | Retired Semi-Pro Athlete</p>
+                            <p>Software Engineer | Multi-Instrumentalist | Retired Semi-Pro Athlete</p>
                         </Box>
                         <Box flexShrink ={0} 
                         mt={{ base:4, md:0 }}
@@ -75,8 +75,8 @@ const Page = () => {
                         Graduated from the University of Texas at Dallas - B.S. Management Information Systems    
                     </BioSection>
                      <BioSection>
-                        <BioYear>2022</BioYear>  
-                        Settled in Austin, Texas  
+                        <BioYear>2024</BioYear>  
+                        Settled in Colorado Springs, CO  
                     </BioSection>
                 </Section>
 
@@ -85,7 +85,7 @@ const Page = () => {
                         Free Time Fun
                     </Heading>
                     <Paragraph>
-                        Musicianing, Coding, German Shepherd, Ultimate Frisbee, Boxing, Video Games  
+                        Musicianing, Coding, Boxing, German Shepherd, Ultimate Frisbee
                     </Paragraph>
                 </Section>
             </Container>
