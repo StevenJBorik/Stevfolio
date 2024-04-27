@@ -74,9 +74,13 @@ const Page = () => {
                         <BioYear>2017</BioYear>  
                         Graduated from the University of Texas at Dallas - B.S. Management Information Systems    
                     </BioSection>
+                    BioSection>
+                        <BioYear>2022</BioYear>  
+                        Moved to Austin, Texas
+                        </BioSection>
                      <BioSection>
                         <BioYear>2024</BioYear>  
-                        Settled in Colorado Springs, CO  
+                        Settled in Colorado Springs, CO 
                     </BioSection>
                 </Section>
 
